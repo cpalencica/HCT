@@ -5,7 +5,6 @@ import time
 import copy
 from motor_class import Motor
 import pandas as pd
-#from write_csv import *
 
 import os
 from datetime import datetime
