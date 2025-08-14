@@ -7,7 +7,7 @@
 </p>
 
 ## Overview
-This project aimed at applying Snell's Law for Hematocrit Detection. Specifically, hematocrit is defined as the region between red blood cells and plasma in a centrifuged vial of blood. Determining the location of the hematocrit can be analyzed and translated to an appropriate indication of health. This projects aims to do this using an infrared laser and a spectrometer.
+This project aimed at applying Snell's Law for Hematocrit Detection. Specifically, hematocrit is defined as the percentage of red blood cells in a vial of blood. Determining the hematocrit can be analyzed and translated to an appropriate indication of health. This projects aims to do this using an infrared laser and a spectrometer.
 
 ## Concept and Application - Snell's Law
 The overall idea involves the following pipeline:
